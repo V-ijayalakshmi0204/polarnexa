@@ -1,0 +1,6 @@
+{
+  "name": "POLARNEX - Polar Expedition Logistics & Asset Management",
+  "description": "Smart India Hackathon 2026 (SIH26062) Prototype: Unified Polar Expedition Logistics, Asset Management and Dependency-Aware Recovery System for Antarctica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
